@@ -22,7 +22,7 @@ This is a simple REST API built with FastAPI that performs CRUD (Create, Read, U
 
    ```bash
    git clone https://github.com/dhananjayawmt/CO528-2024-Assignment-1.git
-   cd fastapi-json-crud
+   cd CO528-2024-Assignment-1
    ```
 
 2. **Create a virtual environment** (optional but recommended):
