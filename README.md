@@ -204,6 +204,11 @@ You can test the API using tools like [Postman](https://www.postman.com/) or `cu
   curl -X DELETE "http://localhost:8000/items/1"
   ```
 
+### Demo
+
+https://github.com/user-attachments/assets/d34628f0-ac45-460c-b876-34e19821f83f
+
+
 ### Repository Structure
 
 ```plaintext
